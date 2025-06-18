@@ -1,0 +1,12 @@
+C:\Users\yash0\OneDrive\Рабочий стол\курсовая пабота\kursach\kursach\obj\Debug\tryksep.csproj.AssemblyReference.cache
+C:\Users\yash0\OneDrive\Рабочий стол\курсовая пабота\kursach\kursach\obj\Debug\kursach.Form1.resources
+C:\Users\yash0\OneDrive\Рабочий стол\курсовая пабота\kursach\kursach\obj\Debug\kursach.Properties.Resources.resources
+C:\Users\yash0\OneDrive\Рабочий стол\курсовая пабота\kursach\kursach\obj\Debug\kursach.ServSettings.resources
+C:\Users\yash0\OneDrive\Рабочий стол\курсовая пабота\kursach\kursach\obj\Debug\kursach.TokenCon.resources
+C:\Users\yash0\OneDrive\Рабочий стол\курсовая пабота\kursach\kursach\obj\Debug\tryksep.csproj.GenerateResource.cache
+C:\Users\yash0\OneDrive\Рабочий стол\курсовая пабота\kursach\kursach\obj\Debug\tryksep.csproj.CoreCompileInputs.cache
+C:\Users\yash0\OneDrive\Рабочий стол\курсовая пабота\kursach\kursach\obj\Debug\kursach.exe
+C:\Users\yash0\OneDrive\Рабочий стол\курсовая пабота\kursach\kursach\obj\Debug\kursach.pdb
+C:\Users\yash0\OneDrive\Рабочий стол\курсовая пабота\kursach\kursach\bin\Debug\kursach.exe.config
+C:\Users\yash0\OneDrive\Рабочий стол\курсовая пабота\kursach\kursach\bin\Debug\kursach.exe
+C:\Users\yash0\OneDrive\Рабочий стол\курсовая пабота\kursach\kursach\bin\Debug\kursach.pdb
